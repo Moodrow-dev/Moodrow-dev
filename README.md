@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anthony
 - 👀 I’m interested in programming and making life a bit easier
-- 🌱 I’m currently learning english, chinese
+- 🌱 I’m currently learning english & chinese
 - 💻 I have tried this programming languages: Python, Java, C++, Dart, JS
 
 <!---
