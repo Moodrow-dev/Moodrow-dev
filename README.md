@@ -1,6 +1,6 @@
 - 👀 I’m interested in programming and making life a bit easier
 - 🌱 I’m currently learning english & chinese
-- 💻 I have tried this programming languages: Python, Java, C++, Dart, JS
+- 💻 My stack: Python, Java, C++, Dart, JS
 
 <!---
 mynameisasskiss/mynameisasskiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
